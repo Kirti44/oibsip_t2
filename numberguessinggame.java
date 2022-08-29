@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class task1 {
+public class numberguessinggame{
     public static void main(String[] args)
      {
         System.out.println('\n'+"                         -------NUMBER GUESSING GAME-------");
